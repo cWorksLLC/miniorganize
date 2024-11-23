@@ -13,4 +13,4 @@ pip install pytest-shutil
 click on the "Code" button, and you will see some options to clone the repo.
 
 > [!NOTE]
-> theres an exe download
+> theres an exe download in the 1.0 release
