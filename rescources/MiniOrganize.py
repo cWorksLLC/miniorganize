@@ -2,7 +2,7 @@ import os
 import shutil
 import time
 
-path = input("where do you want to sort the files? [INCLUDE THE FULL PATH]")
+path = input("where do you want to sort the files? [INCLUDE THE FULL PATH]: ")
 
 list_ = os.listdir(path)
 
